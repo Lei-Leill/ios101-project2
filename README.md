@@ -30,15 +30,13 @@ Play with friends functionality
 
 ## Video Walkthrough
 
-
 <div>
-    <a href="https://www.loom.com/share/18f2375843b144b69447fa13dfd6b78a">
+    <a href="https://www.loom.com/share/4df8b277e6ff46bc866a56497ff05d7e">
     </a>
-    <a href="https://www.loom.com/share/18f2375843b144b69447fa13dfd6b78a">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/18f2375843b144b69447fa13dfd6b78a-0559095aa68b53a2-full-play.gif">
+    <a href="https://www.loom.com/share/4df8b277e6ff46bc866a56497ff05d7e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4df8b277e6ff46bc866a56497ff05d7e-3bc7f9ada0b2a557-full-play.gif">
     </a>
   </div>
-
 
 ## Notes
 
